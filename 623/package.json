@@ -9,7 +9,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "seneca": "^3.3.0",
+    "seneca": "senecajs/seneca",
     "seneca-balance-client": "^0.6.1",
     "seneca-mesh": "^0.10.0"
   }
